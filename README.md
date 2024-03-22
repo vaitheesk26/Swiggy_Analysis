@@ -1,4 +1,4 @@
-Hi. This project is for an online food delivery company called Swiggy, with data sourced from Kaggle. The entire analysis was conducted using Power BI. 
+Hi. This project is for an online food delivery company called "Swiggy", with data sourced from Kaggle. The entire analysis was conducted using Power BI. 
 
 Dashboard: https://t.ly/ihp_j
 
